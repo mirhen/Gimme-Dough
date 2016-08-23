@@ -1,0 +1,6 @@
+framework module Pods_DoughUITests {
+  umbrella header "Pods-DoughUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
